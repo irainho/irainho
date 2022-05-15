@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my MSc Thesis at CENTRA, IST
+- 🌱 I’m currently learning about Linearized General Relativity on Hyperboloidal Slices
+- 📫 How to reach me: email
+- 😄 Pronouns: she/her
+
 <!--
 **irainho/irainho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
