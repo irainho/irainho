@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my MSc Thesis at CENTRA, IST
-- 🌱 I’m currently learning about Linearized General Relativity on Hyperboloidal Slices
-- 📫 How to reach me: email
+- 🔭 I’m a PhD student in Computational Astrophysics in Valencia, Spain
+- 📫 How to reach me: email me @ rainho.ines@gmail.com
 - 😄 Pronouns: she/her
 
 <!--
